@@ -114,6 +114,8 @@ const namesArray = [
   'Albolaryuuu',
   'Marvz',
   'Alexfrance03',
+  'GENXleo',
+  'Yeniee',
 ];
 
 function getCurrentDate() {
