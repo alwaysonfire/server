@@ -1095,21 +1095,6 @@
     }
   },
   {
-    "Name": "VTop",
-    "GB": {
-      "count": 2,
-      "lastUpdated": "11-02-2023"
-    },
-    "GPC": {
-      "count": 0,
-      "lastUpdated": ""
-    },
-    "GE": {
-      "count": 0,
-      "lastUpdated": ""
-    }
-  },
-  {
     "Name": "GENXleo",
     "GB": {
       "count": 4,
